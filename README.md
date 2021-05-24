@@ -3,7 +3,7 @@ A python script designed to automate the conversion of scripts in a package.json
 ## System Requirements
 - Python 3.8.5 or higher | [Download](https://www.python.org/downloads/)
 ## Installation and Use
-In order to get the best experence from Yarn Fixer it is recomended that the script file be placed in a folder or location that is within the host computer's system path environment variable(s), this way it can be accessed and used via the command line from any directory on the host system.  
+In order to get the best experence from Yarn Fixer it is recomended that the yarnfixer.py file be placed in a folder or location that is within the host computer's system path environment variable(s), this way it can be accessed and used via the command line from any directory on the host system.  
 For information on how to add or edit environment variables, please choose from one of the links below.  
   
 **Windows:** https://www.imatest.com/docs/editing-system-environment-variables/#Windows  
